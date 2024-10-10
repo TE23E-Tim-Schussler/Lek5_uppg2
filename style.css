@@ -55,6 +55,7 @@ h1{
  border:2px solid red;
  border-radius:5px;
  margin-top: 10px;
+ text-align: center;
 }
 #mid{
 display: flex;
